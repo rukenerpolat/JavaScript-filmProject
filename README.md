@@ -19,15 +19,15 @@ A dynamic movie listing web application built with **HTML**, **Bootstrap**, and 
 
 ## 🚀 Getting Started
 To run the project locally:
-```
-# Clone the repository
-git clone https://github.com/rukenerpolat/JavaScript-filmProject.git
-
-# Navigate to the project directory
-cd JavaScript-filmProject
-
-# Open index.html in your browser
-```
+1. Clone the repository
+   ```
+   git clone https://github.com/rukenerpolat/JavaScript-filmProject.git
+   ```
+2. Navigate to the project folder
+   ```
+   cd JavaScript-filmProject
+   ```
+3. Open ```index.html``` in your browser
 
 ## 💡 How It Works
 ```film.js```: Defines the Film class for creating movie objects.
